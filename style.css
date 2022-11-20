@@ -1,0 +1,10 @@
+.user_input, .container_title {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+}
+
+body{
+    /* background-image: ; */
+    background-color: aquamarine;
+}
