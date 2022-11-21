@@ -1,9 +1,39 @@
-.user_input, .container_title {
-    display: flex;
-    justify-content: space-between;
-    padding: 2rem;
+.heading, h1{
+    text-align: center;
+    padding: 2%;
+    color: green;
+    
 }
-
+#input_name, #input_email, #input_phone, #add_button{
+    /* border: 7px solid green;
+    padding: 3%;
+    display: flex;
+    margin: 15%; */
+    border:10px solid green;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 12px;
+    font-size: x-large;
+}
+#add_button{
+    background-color: blue;
+    color: yellow;
+    border: none;
+    /* padding: 15%; */
+}
+.box{
+    width: 85%;
+    margin-top: 30px;
+    font-size: x-large;
+    padding: 15px;
+    margin: 10px;
+}
+#output_heading{
+    height: 30px;
+    background: green;
+    text-align: center;
+    color: white;
+}
 body{
     /* background-image: ; */
     background-color: aquamarine;
