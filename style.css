@@ -38,3 +38,16 @@ body{
     /* background-image: ; */
     background-color: aquamarine;
 }
+#error{
+    text-align: center;
+    color: red;
+}
+.data{
+    text-align: center;
+    background-color: lightgray;
+}
+.del{
+    font-size: x-large;
+    background-color: red;
+    border-radius: 10px;
+}
